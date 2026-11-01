@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,45:0d4429,100:1f6feb&height=150&section=header&text=Mohamad%20Hasan%20Hmedy&fontSize=36&fontAlignY=36&animation=twinkling&fontColor=E6EDF3" width="100%" alt="Mohamad Hasan Hmedy" />
 
-<p><b>Informations Technology Engineering and Distributed Systems - AlShahbaa University</b><br>
+<p><b>Information Technology Engineering and Distributed Systems - AlShahbaa University</b><br>
 Cybersecurity engineer and SOC specialist.</p>
 
 <picture>
